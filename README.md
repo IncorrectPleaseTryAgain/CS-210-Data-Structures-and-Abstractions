@@ -41,6 +41,8 @@ This program allows the user to create matrices and perform certain operations w
     user provides an invalid input then they will be prompted so.
   </p>
 
+  [back to top](#uofr-cs210)
+
   <br clear="left">
   
   ---
@@ -55,6 +57,8 @@ This program allows the user to create matrices and perform certain operations w
     If the user provides invalid inputs or the matrices are incompatable then they will be prompted so.
   </p>
 
+  [back to top](#uofr-cs210)
+
   <br clear="left">
 
   ---
@@ -68,9 +72,11 @@ This program allows the user to create matrices and perform certain operations w
     Before the matrices are subtracted from each other the program will check to see if the inputs are acceptable and if 
     the matrices are compatible. If the user provides invalid inputs or the matrices are incompatable then they will be prompted so.
   </p>
+  
+  [back to top](#uofr-cs210)
 
   <br clear="left">
-  
+
   ---
   
   ### <a name="option-mult">4 - Multiply Matrices</a><br>
@@ -82,6 +88,8 @@ This program allows the user to create matrices and perform certain operations w
     Before the matrices are multiplied the program will check to see if the inputs are acceptable and if the matrices are compatible.
     If the user provides invalid inputs or the matrices are incompatable then they will be prompted so.
   </p>
+
+  [back to top](#uofr-cs210)
 
   <br clear="left">
   
@@ -97,6 +105,8 @@ This program allows the user to create matrices and perform certain operations w
     invalid input then they will be prompted so.
   </p>
 
+  [back to top](#uofr-cs210)
+
   <br clear="left">
   
   ---
@@ -109,6 +119,8 @@ This program allows the user to create matrices and perform certain operations w
     When the user selects option 6, the terminal will reset back to default.
   </p>
 
+  [back to top](#uofr-cs210)
+
   <br clear="left">
   
   ---
@@ -120,6 +132,8 @@ This program allows the user to create matrices and perform certain operations w
   <p>
     When the user selects option 7, the program is terminated.
   </p>
+
+  [back to top](#uofr-cs210)
 
   <br clear="left">
   
