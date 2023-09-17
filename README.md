@@ -12,8 +12,6 @@
 # 🔢 <a name="ass-1">Assignment 1</a>
 This program allows the user to create matrices and perform certain operations with them.
 
-[back to top](#uofr-cs210)
-
 <details>
   <summary><h2>📖 Details 📖<h2></summary>
   <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/34353097-e4c3-436d-a2f7-4fe12a0894f6"/>
@@ -42,10 +40,10 @@ This program allows the user to create matrices and perform certain operations w
     Before the matrix is created the program will check to see if there is space as well as if the inputs are acceptable. If the 
     user provides an invalid input then they will be prompted so.
   </p>
-
-  [back to top | Assignment 1](#ass-1)
-
+  
   <br clear="left">
+  
+  [back to top | Assignment 1](#ass-1)
   
   ---
   
@@ -59,9 +57,9 @@ This program allows the user to create matrices and perform certain operations w
     If the user provides invalid inputs or the matrices are incompatable then they will be prompted so.
   </p>
 
-  [back to top | Assignment 1](#ass-1)
-
   <br clear="left">
+  
+  [back to top | Assignment 1](#ass-1)
 
   ---
   
@@ -75,10 +73,10 @@ This program allows the user to create matrices and perform certain operations w
     the matrices are compatible. If the user provides invalid inputs or the matrices are incompatable then they will be prompted so.
   </p>
   
-  [back to top | Assignment 1](#ass-1)
-
   <br clear="left">
 
+  [back to top | Assignment 1](#ass-1)
+  
   ---
   
   ### <a name="option-mult">4 - Multiply Matrices</a><br>
@@ -90,10 +88,10 @@ This program allows the user to create matrices and perform certain operations w
     Before the matrices are multiplied the program will check to see if the inputs are acceptable and if the matrices are compatible.
     If the user provides invalid inputs or the matrices are incompatable then they will be prompted so.
   </p>
-
-  [back to top | Assignment 1](#ass-1)
-
+  
   <br clear="left">
+  
+  [back to top | Assignment 1](#ass-1)
   
   ---
   
@@ -107,9 +105,9 @@ This program allows the user to create matrices and perform certain operations w
     invalid input then they will be prompted so.
   </p>
 
-  [back to top | Assignment 1](#ass-1)
-
   <br clear="left">
+ 
+  [back to top | Assignment 1](#ass-1)
   
   ---
 
@@ -121,9 +119,9 @@ This program allows the user to create matrices and perform certain operations w
     When the user selects option 6, the terminal will reset back to default.
   </p>
 
-  [back to top | Assignment 1](#ass-1)
-
   <br clear="left">
+
+  [back to top | Assignment 1](#ass-1)
   
   ---
   
@@ -135,9 +133,9 @@ This program allows the user to create matrices and perform certain operations w
     When the user selects option 7, the program is terminated.
   </p>
 
-  [back to top | Assignment 1](#ass-1)
-
   <br clear="left">
+
+  [back to top | Assignment 1](#ass-1)
   
   ---
 
