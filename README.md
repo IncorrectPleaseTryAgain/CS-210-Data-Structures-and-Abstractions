@@ -6,6 +6,7 @@
 + [Assignment 1 | Matrix Manipulation](#ass-1)
 + [Assignment 2 | Infix to Postfix Expression](#ass-2)
 + [Assignment 3 | Binary Search Tree](#ass-3)
++ [Assignment 4 | Sorting](#ass-4)
 
 </details>
 
@@ -359,6 +360,124 @@ This program takes user input for intigers and then inserts into binary search t
     Clears the BST and then terminates the program.
   </p>
 
+  <br clear="left">
+
+  [back to top](#uofr-cs210)
+
+</details>
+
+
+
+
+---
+
+
+
+
+# 📰 <a name="ass-4">Assignment 4 | Sorting</a>
+  This program sorts an array and displays the time taken.
+
+### <a href="https://youtu.be/OBsX1n97w3c">Preview Video</a>
+
+<details>
+  <summary><h2>📖 Details 📖<h2></summary>
+  <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/34353097-e4c3-436d-a2f7-4fe12a0894f6"/>
+  <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/ebbabafb-6afd-40af-ab5e-01474b9d87fc"/>
+  <br><br><br>
+
+  ## The user is prompted to set the size and give input for the array.
+
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/5ce089b7-5578-4082-9465-8aeee19335ab" align="left" width="400px"></img>
+  <br clear="left">
+  
+  ---
+    
+  ### User is then prompted several options that they can perform.
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/2df8e686-89b5-4965-b965-4d6288dfdba7" align="left" width="400px"></img>
+  - [Create Array](#a4-create-array)
+  - [Selection Sort](#a4-selection-sort)
+  - [Bubble Sort](#a4-bubble-sort)
+  - [Heap Sort](#a4-heap-sort)
+  - [Display Array](#a4-display-array)
+  - [End Program](#a4-end-program)
+  <br clear="left">
+
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a4-create-array">Create Array.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/1faee6f0-5df6-4fa4-9d4b-d01ad34cc524" align="left" width="400px"></img>
+
+  <p>
+    Allows the user to delete the previously create array and create a new one.
+  </p>
+  
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a4-selection-sort">Selection Sort.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/e52dc7d5-2cdb-486f-a03d-2ce3116c9b38" align="left" width="400px"></img>
+
+  <p>
+    Sorts the array using <a href="https://www.geeksforgeeks.org/selection-sort/">Selection Sort</a> and displays time taken.
+  </p>
+  
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a4-bubble-sort">Bubble Sort.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/732f4d21-2ad6-4578-a25c-78927c3db8af" align="left" width="400px"></img>
+
+  <p>
+    Sorts the array using <a href="https://www.geeksforgeeks.org/bubble-sort/">Bubble Sort</a> and displays time taken.
+  </p>
+  
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a4-heap-sort">Heap Sort.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/85d1de7b-ebd6-4219-b607-8aa41defe667" align="left" width="400px"></img>
+
+  <p>
+    Sorts the array using <a href="https://www.geeksforgeeks.org/heap-sort/">Heap Sort</a> and displays time taken.
+  </p>
+  
+  <br clear="left">
+
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a4-display-array">Display Array.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/2c38e1fc-2758-4a54-a9ba-3f97a27efb45" align="left" width="400px"></img>
+
+  <p>
+    Displays the array inorder.
+  </p>
+  
+  <br clear="left">
+
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a4-end-program">End Program.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/d5e1d0b9-9b30-4f74-af8e-9b70940b15c1" align="left" width="400px"></img>
+
+  <p>
+    Terminates the program
+  </p>
+  
   <br clear="left">
 
   [back to top](#uofr-cs210)
