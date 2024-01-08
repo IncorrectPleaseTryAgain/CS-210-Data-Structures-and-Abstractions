@@ -5,10 +5,17 @@
     
 + [Assignment 1 | Matrix Manipulation](#ass-1)
 + [Assignment 2 | Infix to Postfix Expression](#ass-2)
++ [Assignment 3 | Binary Search Tree](#ass-3)
 
 </details>
 
+
+
+
 ---
+
+
+
 
 # 📰 <a name="ass-1">Assignment 1 | Matrix Manipulation</a>
 This program allows the user to create matrices and perform certain operations with them.
@@ -142,7 +149,13 @@ This program allows the user to create matrices and perform certain operations w
   
 </details>
 
+
+
+
 ---
+
+
+
 
 # 📰 <a name="ass-2">Assignment 2 | Infix to Postfix Expression</a>
 This program converts any infix expression to postfix.
@@ -230,6 +243,126 @@ This program converts any infix expression to postfix.
 
   [back to top](#uofr-cs210)
     
+</details>
+
+
+
+
+---
+
+
+
+
+# 📰 <a name="ass-3">Assignment 3 | Binary Search Tree</a>
+This program takes user input for intigers and then inserts into binary search tree.
+
+### <a href="https://youtu.be/jHKdD1z4S7I">Preview Video</a>
+
+<details>
+  <summary><h2>📖 Details 📖<h2></summary>
+  <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/34353097-e4c3-436d-a2f7-4fe12a0894f6"/>
+  <img align=left style="margin-left: 15px" width=48 src="https://github.com/IncorrectPleaseTryAgain/IncorrectPleaseTryAgain/assets/99939034/ebbabafb-6afd-40af-ab5e-01474b9d87fc"/>
+  <br><br><br>
+
+  ## The user is prompted to set the size and give input for the BST.
+
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/3b31bf20-e8fd-4947-bf07-3a0ee688558f" align="left" width="400px"></img>
+  <br clear="left">
+  
+  ---
+    
+  ### User is then prompted several options that they can perform.
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/c1565577-f412-42fa-bcb7-6f81579c6885" align="left" width="400px"></img>
+  - [Insert New Item](#a3-insert-new-item)
+  - [Delete Item](#a3-delete-item)
+  - [Print](#a3-print)
+  - [Clear BST](#a3-clear-bst)
+  - [Exit Program](#a3-exit-program)
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a3-insert-new-item">Insert New Item.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/343dd528-5626-4a77-8c50-829af495095d" align="left" width="400px"></img>
+
+  <p>
+    Allows the user to insert new integer into the BST.
+    <br>
+    Invalid item will give error message
+    <br> 
+    Duplicate item will give error message
+  </p>
+  
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a3-delete-item">Delete Item.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/917c2124-9d2e-4b23-b047-ba40aecf3f3f" align="left" width="400px"></img>
+
+  <p>
+    Allows the user to delete item from BST.
+    <br>
+    Invalid item will give error message
+    <br> 
+    Non-exsistent item will give error message
+  </p>
+  
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+
+  ### <a name="a3-print">Print.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/450172f0-c4a3-4781-a7dc-6ca951e54352" align="left" width="400px"></img>
+
+  Prints the BST: 
+  <br>
+  In-Order
+  <br>
+  Post-Order
+  <br>
+  Pre-Order
+  <br>
+  <a href="https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/">Website Explanaition</a>
+  
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+  
+  ### <a name="a3-clear-bst">Clear BST.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/4d6eec95-0269-4daf-a259-8380bae61a60" align="left" width="400px"></img>
+
+  <p>
+    Removes each node in the BST.
+    <br>
+    This is done by deleting the root node until the BST is empty.
+  </p>
+
+  <br clear="left">
+  
+  [back to top](#uofr-cs210)
+
+  ---
+  
+  ### <a name="a3-exit-program">Exit Program.</a><br>
+  <img src="https://github.com/IncorrectPleaseTryAgain/CS210/assets/99939034/c9b9856c-dc70-416d-967b-ea343dc9627b" align="left" width="400px"></img>
+
+  <p>
+    Clears the BST and then terminates the program.
+  </p>
+
+  <br clear="left">
+
+  [back to top](#uofr-cs210)
+
 </details>
 
 ---
