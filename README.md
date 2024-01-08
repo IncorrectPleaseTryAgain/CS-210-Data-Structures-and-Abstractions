@@ -39,6 +39,9 @@ This program allows the user to create matrices and perform certain operations w
   - [Reset Terminal](#option-reset)<br>
   - [End Program](#option-end)<br>
   <br clear="left">
+
+  [back to A1](#ass-2)
+  [back to top](#uofr-cs210)
   
   ---
     
@@ -182,6 +185,9 @@ This program converts any infix expression to postfix.
   - [Algorithm](#algorithm)
   - [Examples](#examples)
   <br clear="left">
+
+  [back to A2](#ass-2)
+  [back to top](#uofr-cs210)
   
   ---
     
