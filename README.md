@@ -40,7 +40,8 @@ This program allows the user to create matrices and perform certain operations w
   - [End Program](#option-end)<br>
   <br clear="left">
 
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
   
   ---
@@ -57,7 +58,8 @@ This program allows the user to create matrices and perform certain operations w
   
   <br clear="left">
   
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
   
   ---
@@ -74,7 +76,8 @@ This program allows the user to create matrices and perform certain operations w
 
   <br clear="left">
   
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -91,7 +94,8 @@ This program allows the user to create matrices and perform certain operations w
   
   <br clear="left">
 
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
   
   ---
@@ -108,7 +112,8 @@ This program allows the user to create matrices and perform certain operations w
   
   <br clear="left">
   
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
   
   ---
@@ -125,7 +130,8 @@ This program allows the user to create matrices and perform certain operations w
 
   <br clear="left">
  
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
   
   ---
@@ -140,7 +146,8 @@ This program allows the user to create matrices and perform certain operations w
 
   <br clear="left">
 
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
   
   ---
@@ -155,7 +162,8 @@ This program allows the user to create matrices and perform certain operations w
 
   <br clear="left">
 
-  [back to A1](#ass-2)
+  [back to A1](#ass-1)
+  <br>
   [back to top](#uofr-cs210)
   
 </details>
@@ -187,6 +195,7 @@ This program converts any infix expression to postfix.
   <br clear="left">
 
   [back to A2](#ass-2)
+  <br>
   [back to top](#uofr-cs210)
   
   ---
@@ -211,6 +220,7 @@ This program converts any infix expression to postfix.
   <br clear="left">
   
   [back to A2](#ass-2)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -231,6 +241,7 @@ This program converts any infix expression to postfix.
   <br clear="left">
   
   [back to A2](#ass-2)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -258,6 +269,7 @@ This program converts any infix expression to postfix.
   <br clear="left">
 
   [back to A2](#ass-2)
+  <br>
   [back to top](#uofr-cs210)
     
 </details>
@@ -298,6 +310,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A3](#ass-3)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -316,6 +329,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A3](#ass-3)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -334,6 +348,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A3](#ass-3)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -354,6 +369,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A3](#ass-3)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -370,6 +386,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A3](#ass-3)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -384,6 +401,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
 
   [back to A3](#ass-3)
+  <br>
   [back to top](#uofr-cs210)
 
 </details>
@@ -425,6 +443,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
 
   [back to A4](#ass-4)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -439,6 +458,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A4](#ass-4)
+  <br>
   [back to top](#uofr-cs210))
 
   ---
@@ -453,6 +473,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A4](#ass-4)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -467,6 +488,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
   
   [back to A4](#ass-4)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -481,6 +503,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
 
   [back to A4](#ass-4)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -495,6 +518,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
 
   [back to A4](#ass-4)
+  <br>
   [back to top](#uofr-cs210)
 
   ---
@@ -509,6 +533,7 @@ This program takes user input for intigers and then inserts into binary search t
   <br clear="left">
 
   [back to A4](#ass-4)
+  <br>
   [back to top](#uofr-cs210)
 
 </details>
