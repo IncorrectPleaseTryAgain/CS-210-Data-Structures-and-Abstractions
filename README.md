@@ -1,4 +1,4 @@
-# <a name="uofr-cs210">🎓 Univerity of Regina | CS210 🎓</a>
+# <a name="uofr-cs210">🎓 CS 210 | Data Structures and Abstractions 🎓</a>
 
 <details>
   <summary><h2>📃Contents📃<h2></summary>
